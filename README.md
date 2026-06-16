@@ -233,4 +233,4 @@ I've gained several useful isnights from this analysis:
 
 ### Concluding Thoughts
 
-This project allowed me to learn and leverage SQL to provide valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts as an incoming data professional. Aspiring data analysts can gain better positioning in a competitive job market by investing in learning high-demand, high-salary skills. This discovery highlights the importance of continuous learning and adaptation to emerging data analytics trends.
+This project allowed me to learn and leverage SQL to provide valuable insights on the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts as an incoming data professional. Aspiring data analysts can gain better positioning in a competitive job market by investing in learning high-demand, high-salary skills. This discovery highlights the importance of continuous learning and adaptation to emerging data analytics trends.
